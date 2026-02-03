@@ -4,7 +4,7 @@
 
 ## Official Website
 
-👉 **[Visit Official Website & Download](https://wasender.wadesk.io/?utm_source=github&utm_medium=referral&utm_campaign=github_repo_readme)**
+👉 **[WA Sender Free Website & Download](https://wasender.wadesk.io/?utm_source=github&utm_medium=referral&utm_campaign=github_repo_readme)**
 
 ## Key Features
 
