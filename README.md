@@ -1,4 +1,5 @@
 # WA Sender - Free WhatsApp Bulk Sender
+![WA Sender Free](https://wasender.wadesk.io/assets/images/blog/whatsapp-broadcast-ultimate-guide/1.webp)
 
 **WA Sender** is a powerful, 100% free Chrome extension designed to help you send bulk WhatsApp messages efficiently and securely.
 
