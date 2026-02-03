@@ -1,11 +1,20 @@
-<div align="center">
+# WA Sender - Free WhatsApp Bulk Sender
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+**WA Sender** is a powerful, 100% free Chrome extension designed to help you send bulk WhatsApp messages efficiently and securely.
 
-  <h1>Built with AI Studio</h2>
+## Official Website
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+👉 **[Visit Official Website & Download](https://wasender.wadesk.io/?utm_source=github&utm_medium=referral&utm_campaign=github_repo_readme)**
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Key Features
 
-</div>
+- **Bulk Messaging:** Send thousands of messages with a single click.
+- **Personalization:** Use dynamic placeholders like `{Name}` to personalize each message.
+- **Excel/CSV Support:** Upload your contact lists directly from Excel.
+- **Attachments:** Send images, videos, and documents along with your text.
+- **Privacy Safe:** Works locally on your browser.
+
+## License
+
+This project serves as a landing page for the WA Sender tool.
+© 2024 WADesk. All rights reserved.
